@@ -24,10 +24,19 @@ get_header(); ?>
 
 				get_template_part( 'template-parts/post/content', get_post_format() );
 				
-      	the_meta();
-      	$responsable_ids = get_field( 'responsable' );
-				var_dump( $responsable_ids );
-
+      	// los custom fiels
+      	
+      	//the_meta();
+      	//$responsable_ids = get_field( 'responsable' );
+				//var_dump( $responsable_ids );
+      	
+      	//temas
+				$temas_terms = get_field( 'temas' ); 
+         if ( $temas_terms ): 
+         foreach ( $temas_terms as $temas_term ): 
+         echo $temas_term->name; 
+         endforeach; 
+         endif; 
       
 				// If comments are open or we have at least one comment, load up the comment template.
 				if ( comments_open() || get_comments_number() ) :
