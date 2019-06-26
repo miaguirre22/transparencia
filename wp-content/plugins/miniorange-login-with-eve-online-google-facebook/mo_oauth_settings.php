@@ -386,7 +386,7 @@ class mo_oauth {
 				$newapp['clientid'] = $clientid;
 				$newapp['clientsecret'] = $clientsecret;
 				$newapp['scope'] = $scope;
-				$newapp['redirecturi'] = site_url();
+				$newapp['redirecturi'] = site_url().'/oauthcallback';
 				if($appname=="facebook"){
 					$authorizeurl = 'https://www.facebook.com/dialog/oauth';
 					$accesstokenurl = 'https://graph.facebook.com/v2.8/oauth/access_token';

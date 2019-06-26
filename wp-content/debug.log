@@ -1,0 +1,1016 @@
+[04-Jun-2019 12:41:54 UTC] PHP Warning:  Use of undefined constant ‘WPLANG’ - assumed '‘WPLANG’' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:41:54 UTC] PHP Warning:  Use of undefined constant ‘wp - assumed '‘wp' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:41:54 UTC] PHP Warning:  A non-numeric value encountered in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:41:54 UTC] PHP Warning:  Use of undefined constant x - assumed 'x' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:41:54 UTC] PHP Warning:  Use of undefined constant es - assumed 'es' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:41:54 UTC] PHP Notice:  A non well formed numeric value encountered in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:41:54 UTC] PHP Warning:  A non-numeric value encountered in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:41:54 UTC] PHP Warning:  Use of undefined constant ar’ - assumed 'ar’' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:41:54 UTC] PHP Warning:  A non-numeric value encountered in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  Use of undefined constant ‘WPLANG’ - assumed '‘WPLANG’' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  Use of undefined constant ‘wp - assumed '‘wp' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  A non-numeric value encountered in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  Use of undefined constant x - assumed 'x' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  Use of undefined constant es - assumed 'es' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Notice:  A non well formed numeric value encountered in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  A non-numeric value encountered in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  Use of undefined constant ar’ - assumed 'ar’' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  A non-numeric value encountered in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  Use of undefined constant ‘WPLANG’ - assumed '‘WPLANG’' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  Use of undefined constant ‘wp - assumed '‘wp' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  A non-numeric value encountered in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  Use of undefined constant x - assumed 'x' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  Use of undefined constant es - assumed 'es' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Notice:  A non well formed numeric value encountered in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  A non-numeric value encountered in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  Use of undefined constant ar’ - assumed 'ar’' (this will throw an Error in a future version of PHP) in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 12:44:51 UTC] PHP Warning:  A non-numeric value encountered in /var/www/transparencia/wp-config.php on line 94
+[04-Jun-2019 13:01:35 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-select-your-idp] => stdClass Object
+        (
+            [title] => <h3>Select your OAuth Provider</h3>
+            [content] => <p>Choose your OAuth Provider from the list of OAuth Providers</p>
+            [anchor_id] => #mo_oauth_client_default_apps
+            [edge] => left
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-select-your-idp
+        )
+
+)
+
+[04-Jun-2019 13:01:43 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-addapp-pointer] => stdClass Object
+        (
+            [title] => <h3>Configure Your Application</h3>
+            [content] => <p>Need help with configuration? Click on How to Configure?</p>
+            [anchor_id] => #mo_oauth_config_guide
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-addapp-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 13:23:51 UTC] PHP Notice:  Undefined variable: newap in /var/www/transparencia/wp-content/plugins/miniorange-login-with-eve-online-google-facebook/mo_oauth_settings.php on line 438
+[04-Jun-2019 13:23:51 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer] => stdClass Object
+        (
+            [title] => <h3>Test Your Application Configuration</h3>
+            [content] => <p>Click here to see the list of attributes provided by your OAuth Provider. If you are getting any error, please refer the FAQ tab.</p>
+            [anchor_id] => #mo_oauth_test_configuration
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer] => stdClass Object
+        (
+            [title] => <h3>Mapping Attributes</h3>
+            [content] => <p>Enter the appropriate values(attribute names) from the Test Configuration table.</p>
+            [anchor_id] => #attribute-mapping
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 13:24:14 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer] => stdClass Object
+        (
+            [title] => <h3>Test Your Application Configuration</h3>
+            [content] => <p>Click here to see the list of attributes provided by your OAuth Provider. If you are getting any error, please refer the FAQ tab.</p>
+            [anchor_id] => #mo_oauth_test_configuration
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer] => stdClass Object
+        (
+            [title] => <h3>Mapping Attributes</h3>
+            [content] => <p>Enter the appropriate values(attribute names) from the Test Configuration table.</p>
+            [anchor_id] => #attribute-mapping
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 13:27:20 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer] => stdClass Object
+        (
+            [title] => <h3>Test Your Application Configuration</h3>
+            [content] => <p>Click here to see the list of attributes provided by your OAuth Provider. If you are getting any error, please refer the FAQ tab.</p>
+            [anchor_id] => #mo_oauth_test_configuration
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer] => stdClass Object
+        (
+            [title] => <h3>Mapping Attributes</h3>
+            [content] => <p>Enter the appropriate values(attribute names) from the Test Configuration table.</p>
+            [anchor_id] => #attribute-mapping
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 13:30:09 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-select-your-idp] => stdClass Object
+        (
+            [title] => <h3>Select your OAuth Provider</h3>
+            [content] => <p>Choose your OAuth Provider from the list of OAuth Providers</p>
+            [anchor_id] => #mo_oauth_client_default_apps
+            [edge] => left
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-select-your-idp
+        )
+
+)
+
+[04-Jun-2019 13:30:13 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-addapp-pointer] => stdClass Object
+        (
+            [title] => <h3>Configure Your Application</h3>
+            [content] => <p>Need help with configuration? Click on How to Configure?</p>
+            [anchor_id] => #mo_oauth_config_guide
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-addapp-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 13:30:54 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /var/www/transparencia/wp-includes/update.php on line 384
+[04-Jun-2019 13:31:57 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-select-your-idp] => stdClass Object
+        (
+            [title] => <h3>Select your OAuth Provider</h3>
+            [content] => <p>Choose your OAuth Provider from the list of OAuth Providers</p>
+            [anchor_id] => #mo_oauth_client_default_apps
+            [edge] => left
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-select-your-idp
+        )
+
+)
+
+[04-Jun-2019 13:34:13 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-select-your-idp] => stdClass Object
+        (
+            [title] => <h3>Select your OAuth Provider</h3>
+            [content] => <p>Choose your OAuth Provider from the list of OAuth Providers</p>
+            [anchor_id] => #mo_oauth_client_default_apps
+            [edge] => left
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-select-your-idp
+        )
+
+)
+
+[04-Jun-2019 13:34:29 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-select-your-idp] => stdClass Object
+        (
+            [title] => <h3>Select your OAuth Provider</h3>
+            [content] => <p>Choose your OAuth Provider from the list of OAuth Providers</p>
+            [anchor_id] => #mo_oauth_client_default_apps
+            [edge] => left
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-select-your-idp
+        )
+
+)
+
+[04-Jun-2019 13:34:30 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-addapp-pointer] => stdClass Object
+        (
+            [title] => <h3>Configure Your Application</h3>
+            [content] => <p>Need help with configuration? Click on How to Configure?</p>
+            [anchor_id] => #mo_oauth_config_guide
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-addapp-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 13:34:33 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-select-your-idp] => stdClass Object
+        (
+            [title] => <h3>Select your OAuth Provider</h3>
+            [content] => <p>Choose your OAuth Provider from the list of OAuth Providers</p>
+            [anchor_id] => #mo_oauth_client_default_apps
+            [edge] => left
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-select-your-idp
+        )
+
+)
+
+[04-Jun-2019 13:34:35 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-addapp-pointer] => stdClass Object
+        (
+            [title] => <h3>Configure Your Application</h3>
+            [content] => <p>Need help with configuration? Click on How to Configure?</p>
+            [anchor_id] => #mo_oauth_config_guide
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-addapp-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 13:35:58 UTC] PHP Notice:  Undefined variable: newap in /var/www/transparencia/wp-content/plugins/miniorange-login-with-eve-online-google-facebook/mo_oauth_settings.php on line 438
+[04-Jun-2019 13:35:58 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer] => stdClass Object
+        (
+            [title] => <h3>Test Your Application Configuration</h3>
+            [content] => <p>Click here to see the list of attributes provided by your OAuth Provider. If you are getting any error, please refer the FAQ tab.</p>
+            [anchor_id] => #mo_oauth_test_configuration
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer] => stdClass Object
+        (
+            [title] => <h3>Mapping Attributes</h3>
+            [content] => <p>Enter the appropriate values(attribute names) from the Test Configuration table.</p>
+            [anchor_id] => #attribute-mapping
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 13:36:08 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer] => stdClass Object
+        (
+            [title] => <h3>Test Your Application Configuration</h3>
+            [content] => <p>Click here to see the list of attributes provided by your OAuth Provider. If you are getting any error, please refer the FAQ tab.</p>
+            [anchor_id] => #mo_oauth_test_configuration
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer] => stdClass Object
+        (
+            [title] => <h3>Mapping Attributes</h3>
+            [content] => <p>Enter the appropriate values(attribute names) from the Test Configuration table.</p>
+            [anchor_id] => #attribute-mapping
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 13:36:39 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-app-list-pointer] => stdClass Object
+        (
+            [title] => <h3>App List</h3>
+            [content] => <p>Click here to Update or Delete the application.</p>
+            [anchor_id] => #mo_oauth_app_list
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-app-list-pointer
+        )
+
+)
+
+[04-Jun-2019 13:36:41 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer] => stdClass Object
+        (
+            [title] => <h3>Test Your Application Configuration</h3>
+            [content] => <p>Click here to see the list of attributes provided by your OAuth Provider. If you are getting any error, please refer the FAQ tab.</p>
+            [anchor_id] => #mo_oauth_test_configuration
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer] => stdClass Object
+        (
+            [title] => <h3>Mapping Attributes</h3>
+            [content] => <p>Enter the appropriate values(attribute names) from the Test Configuration table.</p>
+            [anchor_id] => #attribute-mapping
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 13:38:21 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-select-your-idp] => stdClass Object
+        (
+            [title] => <h3>Select your OAuth Provider</h3>
+            [content] => <p>Choose your OAuth Provider from the list of OAuth Providers</p>
+            [anchor_id] => #mo_oauth_client_default_apps
+            [edge] => left
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-select-your-idp
+        )
+
+)
+
+[04-Jun-2019 13:38:22 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-addapp-pointer] => stdClass Object
+        (
+            [title] => <h3>Configure Your Application</h3>
+            [content] => <p>Need help with configuration? Click on How to Configure?</p>
+            [anchor_id] => #mo_oauth_config_guide
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-addapp-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 13:40:28 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-select-your-idp] => stdClass Object
+        (
+            [title] => <h3>Select your OAuth Provider</h3>
+            [content] => <p>Choose your OAuth Provider from the list of OAuth Providers</p>
+            [anchor_id] => #mo_oauth_client_default_apps
+            [edge] => left
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-select-your-idp
+        )
+
+)
+
+[04-Jun-2019 13:40:31 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-addapp-pointer] => stdClass Object
+        (
+            [title] => <h3>Configure Your Application</h3>
+            [content] => <p>Need help with configuration? Click on How to Configure?</p>
+            [anchor_id] => #mo_oauth_config_guide
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-addapp-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 13:44:31 UTC] PHP Notice:  Undefined variable: newap in /var/www/transparencia/wp-content/plugins/miniorange-login-with-eve-online-google-facebook/mo_oauth_settings.php on line 438
+[04-Jun-2019 13:44:32 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer] => stdClass Object
+        (
+            [title] => <h3>Test Your Application Configuration</h3>
+            [content] => <p>Click here to see the list of attributes provided by your OAuth Provider. If you are getting any error, please refer the FAQ tab.</p>
+            [anchor_id] => #mo_oauth_test_configuration
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer] => stdClass Object
+        (
+            [title] => <h3>Mapping Attributes</h3>
+            [content] => <p>Enter the appropriate values(attribute names) from the Test Configuration table.</p>
+            [anchor_id] => #attribute-mapping
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 14:11:03 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-app-list-pointer] => stdClass Object
+        (
+            [title] => <h3>App List</h3>
+            [content] => <p>Click here to Update or Delete the application.</p>
+            [anchor_id] => #mo_oauth_app_list
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-app-list-pointer
+        )
+
+)
+
+[04-Jun-2019 14:11:05 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer] => stdClass Object
+        (
+            [title] => <h3>Test Your Application Configuration</h3>
+            [content] => <p>Click here to see the list of attributes provided by your OAuth Provider. If you are getting any error, please refer the FAQ tab.</p>
+            [anchor_id] => #mo_oauth_test_configuration
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer] => stdClass Object
+        (
+            [title] => <h3>Mapping Attributes</h3>
+            [content] => <p>Enter the appropriate values(attribute names) from the Test Configuration table.</p>
+            [anchor_id] => #attribute-mapping
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
+[04-Jun-2019 14:13:05 UTC] Array
+(
+    [custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer] => stdClass Object
+        (
+            [title] => <h3>Test Your Application Configuration</h3>
+            [content] => <p>Click here to see the list of attributes provided by your OAuth Provider. If you are getting any error, please refer the FAQ tab.</p>
+            [anchor_id] => #mo_oauth_test_configuration
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-test-config-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer] => stdClass Object
+        (
+            [title] => <h3>Mapping Attributes</h3>
+            [content] => <p>Enter the appropriate values(attribute names) from the Test Configuration table.</p>
+            [anchor_id] => #attribute-mapping
+            [edge] => left
+            [align] => right
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-configure-atribute-mapping-pointer
+        )
+
+    [custom_admin_pointers4_8_52_miniorange-support-pointer] => stdClass Object
+        (
+            [title] => <h3>We are here!!</h3>
+            [content] => <p>Get in touch with us and we will help you setup the plugin in no time.</p>
+            [anchor_id] => #mo_support_layout
+            [edge] => right
+            [align] => left
+            [where] => Array
+                (
+                    [0] => toplevel_page_mo_oauth_settings
+                )
+
+            [id] => custom_admin_pointers4_8_52_miniorange-support-pointer
+        )
+
+)
+
