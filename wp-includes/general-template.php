@@ -322,7 +322,8 @@ function wp_logout_url( $redirect = '' ) {
  * @return string The login URL. Not HTML-encoded.
  */
 function wp_login_url( $redirect = '', $force_reauth = false ) {
-	$login_url = site_url( 'wp-login.php', 'login' );
+	$login_url = 'http://stage.ventanillaunica.chaco.gov.ar/oauth/v2/auth_login';
+	//$login_url = site_url( 'wp-login.php', 'login' );
 
 	if ( ! empty( $redirect ) ) {
 		$login_url = add_query_arg( 'redirect_to', urlencode( $redirect ), $login_url );
