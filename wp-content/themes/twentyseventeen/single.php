@@ -25,8 +25,8 @@ get_header(); ?>
 				get_template_part( 'template-parts/post/content', get_post_format() );
 				
 		      	// custom fiels API WP		      	
-		      	the_meta();
-		      	echo get_post_meta($post->ID, 'frecuencia_actualizacion', true);
+		      	// the_meta();
+		      	// echo get_post_meta($post->ID, 'frecuencia_actualizacion', true);
 
 		      	
 		      	//$responsable_ids = get_field( 'responsable' );
@@ -34,12 +34,12 @@ get_header(); ?>
 
 
 		      	// custom fiels API ACF		      	
-				$temas_terms = get_field( 'temas' ); 
-			     if ( $temas_terms ): 
-			     foreach ( $temas_terms as $temas_term ): 
-			     echo $temas_term->name; 
-			     endforeach; 
-			     endif; 
+				// $temas_terms = get_field( 'temas' ); 
+			    // if ( $temas_terms ): 
+			    // foreach ( $temas_terms as $temas_term ): 
+			    // echo $temas_term->name; 
+			    // endforeach; 
+			    // endif; 
       
 				// If comments are open or we have at least one comment, load up the comment template.
 				if ( comments_open() || get_comments_number() ) :
